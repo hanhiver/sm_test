@@ -1,3 +1,6 @@
 [submodule "3rdpart/prometheus-cpp"]
 	path = 3rdpart/prometheus-cpp
 	url = https://github.com/jupp0r/prometheus-cpp.git
+[submodule "3rdpart/mydocker"]
+	path = 3rdpart/mydocker
+	url = https://github.com/hanhiver/mydocker.git
